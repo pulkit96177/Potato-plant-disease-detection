@@ -32,12 +32,3 @@ The Potato Disease Classification Project involves the following steps:
 The Potato Disease Classification Project is a useful machine learning project that can assist potato farmers and researchers in identifying potato diseases quickly and accurately. By using deep learning and computer vision techniques, the project can help save time and resources that would otherwise be spent on manual inspection and diagnosis.
 
 
-
-
-## Authors
-
-- [Prakhar Jain](https://www.github.com/Prakharjain1211)
-- [Sahaj Makwana](https://www.github.com/sahaj-makwana)
-- [Snehal Singh Solanki](https://www.github.com/singhSnehal)
-
-
